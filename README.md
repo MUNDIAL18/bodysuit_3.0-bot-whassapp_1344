@@ -73,7 +73,7 @@ excesivamente lento (depende del WhatsApp igual)
 
 * [Opción 2 - WhatsApp Recomendado](https://www.mediafire.com/file/4kkiwpxvciabjf5/ʙᴜsͨɪͧɴᷨᴇͣs๋ᷡsͦ_V6_SECUNDARIO.apk/file).
 ## `PORPIETARIO DEL BOT` 
-[![Alex bodysuit1212](https://3c5.com/ljrjm)](https://github.com/MUNDIAL18/bodysuit_3.0-bot-whassapp_1344) 
+[![Alex bodysuit1212](https://github.com/MUNDIAL18/bodysuit_3.0-bot-whassapp_1344/blob/b973ff8417fb82bc43c9622232fcb36d683690a6/Menu2.jpg)](https://github.com/MUNDIAL18/bodysuit_3.0-bot-whassapp_1344) 
 ```bash
 
 
