@@ -29,14 +29,14 @@ Bot terminado no recibirá más actualizaciones ✨
 ├❏pkg install imagemagick -y
 ├❏termux-setup-storage
 ├❏git clone https://github.com/MUNDIAL18/bodysuit_3.0-bot-whassapp_1344
-├❏cd bodysuit-BOT-MDV2
+├❏cd bodysuit_3.0-bot-whassapp_1344
 ├❏npm install
 ├❏pkg install yarn
 ├❏npm update
 ├❏yarn
 ├❏npm install
 ├❏npm start
-└────ׂ─ׂ─ׂ─ׂ───  
+└────ׂ─ׂ─ׂ─ׂ───
 ```
 ### `NOTAS`
 ```bash
@@ -48,13 +48,13 @@ Bot terminado no recibirá más actualizaciones ✨
 ├❏config.js
 ┌「𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂」
 ├❏> Para obtener nuevamente el codigo QR, escribe en el termux:
-├❏> cd bodysuit-BOT-MDV2 
+├❏> cd bodysuit_3.0-bot-whassapp_1344
 ├❏> rm -rf session.data.json
 ├❏> npm start 
 └────ׂ─ׂ─ׂ─ׂ───
 ┌「𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂」
 ├❏> Si el termux se cierra para volver activar escribe:
-├❏> cd bodysuit-BOT-MDV2 
+├❏> cd bodysuit_3.0-bot-whassapp_1344
 ├❏> npm start 
 └────ׂ─ׂ─ׂ─ׂ───
 ├❏> Cada vez que realices una modificacion en el
