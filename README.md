@@ -28,7 +28,7 @@ Bot terminado no recibirá más actualizaciones ✨
 ├❏pkg install ffmpeg -y
 ├❏pkg install imagemagick -y
 ├❏termux-setup-storage
-├❏git clone https://github.com/Alex bodysuit1212/bodysuit-BOT-MDV2.git
+├❏git clone https://github.com/MUNDIAL18/bodysuit_3.0-bot-whassapp_1344
 ├❏cd bodysuit-BOT-MDV2
 ├❏npm install
 ├❏pkg install yarn
