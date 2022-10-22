@@ -67,7 +67,7 @@ excesivamente lento (depende del WhatsApp igual)
 └────ׂ─ׂ─ׂ─ׂ───
 ```
 ### `AJUSTES`
-- CAMBIAR NÚMERO DE PROPIETARIO [Aqui](https://github.com/Alex bodysuit1212/bodysuit-BOT-MDV2/blob/master/config.js)
+- CAMBIAR NÚMERO DE PROPIETARIO [Aqui](https://github.com/MUNDIAL18/bodysuit_3.0-bot-whassapp_1344)
 > ##### WhatsApp recomendado por el creador del Bot
 * [Opción 1 - WhatsApp Recomendado](https://www.mediafire.com/file/o80pni1rfi0n6zz/ʙᴜsͨɪͧɴᷨᴇͣs๋ᷡsͦ_V6_PRIMARIO.apk/file).
 
