@@ -1,7 +1,7 @@
 #🔥 𝘽𝙊𝘿𝙔𝙎𝙐𝙄𝙏 -𝗕𝗢𝗧-𝗠𝗗🔥
 Bot terminado no recibirá más actualizaciones ✨ 
 
-<a href="http://wa.me/5212411347465" target="blank"><img src="https://img.shields.io/badge/creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="http://wa.me/573245104054" target="blank"><img src="https://img.shields.io/badge/creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 [![Grupo de WhatsApp](https://img.shields.io/badge/GRUPO_OFICIAL_1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GiKGCCuQm1GDq3No9dauBR)
 
